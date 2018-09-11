@@ -13130,11 +13130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Software Process\\assignment\\assignment\\assignment.csproj",
+      "projectUniqueName": "\\\\hwnas\\HDrives\\1713057\\Documents\\GitHub\\Software-Process\\assignment\\assignment.csproj",
       "projectName": "assignment",
-      "projectPath": "H:\\Software Process\\assignment\\assignment\\assignment.csproj",
+      "projectPath": "\\\\hwnas\\HDrives\\1713057\\Documents\\GitHub\\Software-Process\\assignment\\assignment.csproj",
       "packagesPath": "C:\\Users\\1713057\\.nuget\\packages\\",
-      "outputPath": "H:\\Software Process\\assignment\\assignment\\obj\\",
+      "outputPath": "\\\\hwnas\\HDrives\\1713057\\Documents\\GitHub\\Software-Process\\assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -20,3 +20,14 @@ H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.Ass
 H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.AssemblyInfo.cs
 H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.dll
 H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.pdb
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\bin\Debug\netcoreapp2.0\assignment.deps.json
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\bin\Debug\netcoreapp2.0\assignment.runtimeconfig.json
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\bin\Debug\netcoreapp2.0\assignment.runtimeconfig.dev.json
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\bin\Debug\netcoreapp2.0\assignment.dll
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\bin\Debug\netcoreapp2.0\assignment.pdb
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\obj\Debug\netcoreapp2.0\assignment.csprojResolveAssemblyReference.cache
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\obj\Debug\netcoreapp2.0\assignment.csproj.CoreCompileInputs.cache
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\obj\Debug\netcoreapp2.0\assignment.AssemblyInfoInputs.cache
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\obj\Debug\netcoreapp2.0\assignment.AssemblyInfo.cs
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\obj\Debug\netcoreapp2.0\assignment.dll
+\\hwnas\HDrives\1713057\Documents\GitHub\Software-Process\assignment\obj\Debug\netcoreapp2.0\assignment.pdb
