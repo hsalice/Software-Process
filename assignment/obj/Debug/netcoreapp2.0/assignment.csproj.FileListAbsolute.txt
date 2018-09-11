@@ -1,0 +1,22 @@
+C:\Users\1713057\source\repos\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.deps.json
+C:\Users\1713057\source\repos\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.runtimeconfig.json
+C:\Users\1713057\source\repos\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.runtimeconfig.dev.json
+C:\Users\1713057\source\repos\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.dll
+C:\Users\1713057\source\repos\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.pdb
+C:\Users\1713057\source\repos\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.csprojResolveAssemblyReference.cache
+C:\Users\1713057\source\repos\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\1713057\source\repos\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.AssemblyInfoInputs.cache
+C:\Users\1713057\source\repos\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.AssemblyInfo.cs
+C:\Users\1713057\source\repos\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.dll
+C:\Users\1713057\source\repos\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.pdb
+H:\Software Process\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.deps.json
+H:\Software Process\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.runtimeconfig.json
+H:\Software Process\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.runtimeconfig.dev.json
+H:\Software Process\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.dll
+H:\Software Process\assignment\assignment\bin\Debug\netcoreapp2.0\assignment.pdb
+H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.csprojResolveAssemblyReference.cache
+H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.csproj.CoreCompileInputs.cache
+H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.AssemblyInfoInputs.cache
+H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.AssemblyInfo.cs
+H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.dll
+H:\Software Process\assignment\assignment\obj\Debug\netcoreapp2.0\assignment.pdb
