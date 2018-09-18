@@ -13123,25 +13123,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\1713057\\.nuget\\packages\\": {},
+    "C:\\Users\\magic\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "H:\\Software Process\\Assignment_two\\Assignment\\Assignment\\Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\magic\\OneDrive\\Documents\\GitHub\\New folder\\Software-Process\\REAL\\Assignment\\Assignment\\Assignment.csproj",
       "projectName": "Assignment",
-      "projectPath": "H:\\Software Process\\Assignment_two\\Assignment\\Assignment\\Assignment.csproj",
-      "packagesPath": "C:\\Users\\1713057\\.nuget\\packages\\",
-      "outputPath": "H:\\Software Process\\Assignment_two\\Assignment\\Assignment\\obj\\",
+      "projectPath": "C:\\Users\\magic\\OneDrive\\Documents\\GitHub\\New folder\\Software-Process\\REAL\\Assignment\\Assignment\\Assignment.csproj",
+      "packagesPath": "C:\\Users\\magic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\magic\\OneDrive\\Documents\\GitHub\\New folder\\Software-Process\\REAL\\Assignment\\Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "\\\\hwnas\\HDrives\\1713057\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\magic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
