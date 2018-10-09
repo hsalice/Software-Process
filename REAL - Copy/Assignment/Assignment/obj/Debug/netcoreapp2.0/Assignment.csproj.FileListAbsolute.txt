@@ -1,0 +1,22 @@
+H:\Software Process\Assignment_two\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.deps.json
+H:\Software Process\Assignment_two\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.json
+H:\Software Process\Assignment_two\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.dev.json
+H:\Software Process\Assignment_two\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.dll
+H:\Software Process\Assignment_two\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.pdb
+H:\Software Process\Assignment_two\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.csprojResolveAssemblyReference.cache
+H:\Software Process\Assignment_two\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.csproj.CoreCompileInputs.cache
+H:\Software Process\Assignment_two\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfoInputs.cache
+H:\Software Process\Assignment_two\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfo.cs
+H:\Software Process\Assignment_two\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.dll
+H:\Software Process\Assignment_two\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.pdb
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfo.cs
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.dll
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.pdb
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.deps.json
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.json
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.dev.json
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.dll
+C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.pdb
