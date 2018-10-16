@@ -1,5 +1,4 @@
-﻿@model IEnumerable<Assignment.Models.Courses>
-
+﻿@model Assignment.Models.CourseCategoryViewModel
 @{
     ViewData["Title"] = "Index";
 }
@@ -9,69 +8,85 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            <select asp-for="courseCategory" asp-items="Model.categories">
+                <option value="">All</option>
+            </select>
+
+            Find by category: <input type="text" name="SearchString" value="@ViewData["currentFilter"]" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.CourseCode)
+                @Html.DisplayNameFor(model => model.course[0].CourseCode)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CourseName)
+                @Html.DisplayNameFor(model => model.course[0].CourseName)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Description)
+                @Html.DisplayNameFor(model => model.course[0].Description)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Year)
+                @Html.DisplayNameFor(model => model.course[0].Year)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Semester)
+                @Html.DisplayNameFor(model => model.course[0].Semester)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Prerequisite)
+                @Html.DisplayNameFor(model => model.course[0].Prerequisite)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Compulsory)
+                @Html.DisplayNameFor(model => model.course[0].Compulsory)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Category)
+                @Html.DisplayNameFor(model => model.course[0].Category)
             </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.CourseCode)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CourseName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Year)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Semester)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Prerequisite)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Compulsory)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Category)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.CourseCode">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.CourseCode">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.CourseCode">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model.course)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Year)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Semester)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Prerequisite)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Compulsory)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CourseCode">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CourseCode">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CourseCode">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

@@ -20,3 +20,14 @@ C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignme
 C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.dev.json
 C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.dll
 C:\Users\Stephanie's iMac\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.pdb
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.deps.json
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.json
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.dev.json
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.dll
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.pdb
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.csprojResolveAssemblyReference.cache
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.csproj.CoreCompileInputs.cache
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfoInputs.cache
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfo.cs
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.dll
+\\hwnas\hdrives\1714650\Documents\GitHub\Software-Process\REAL - Copy\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.pdb

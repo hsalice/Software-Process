@@ -19,9 +19,30 @@ namespace Assignment.Controllers
         }
 
         // GET: Courses
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string courseCategory, string searchString)
         {
-            return View(await _context.Courses.ToListAsync());
+            IQueryable<string> categoryQuery = from m in _context.Courses
+                                            orderby m.Category
+                                            select m.Category;
+
+            var courses = from m in _context.Courses
+                         select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                courses = courses.Where(s => s.Category.Contains(searchString));
+            }
+
+            if (!String.IsNullOrEmpty(courseCategory))
+            {
+                courses = courses.Where(x => x.Category == courseCategory);
+            }
+
+            var courseCategoryVM = new CourseCategoryViewModel();
+            courseCategoryVM.categories = new SelectList(await categoryQuery.Distinct().ToListAsync());
+            courseCategoryVM.course = await courses.ToListAsync();
+
+            return View(courseCategoryVM);
         }
 
         // GET: Courses/Details/5
